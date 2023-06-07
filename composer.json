@@ -1,0 +1,17 @@
+{
+    "name": "thiago/array-access",
+    "description": "Exemplo de uso da interface ArrayAccess",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Tedesco\\ArrayAccess\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "thiago.tedesco",
+            "email": "thiago.tedesco@hotmail.com"
+        }
+    ],
+    "require": {}
+}
